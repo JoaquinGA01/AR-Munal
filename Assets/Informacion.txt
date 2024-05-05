@@ -1,0 +1,95 @@
+{
+    "items": [
+        {
+            "Nombre_Obra": "Auto Retrato",
+            "Panel_Informacion_Izquierdo": "Fíjate en cómo brilla cada color. David era un mago mezclando técnicas y materiales. Su meta era hacer que los colores saltaran del lienzo, como si fueran fuegos artificiales. Mira su cara, iluminada, y la camisa roja... ¡es como si el rojo tuviera vida propia! Usaba estas técnicas no solo para mostrar su estilo, sino también su personalidad vibrante.  Ahora, observa su brazo. Los colores y las formas están hechos de manera que casi puedes sentir la textura solo mirándolos. Esto es algo que muchos pintores modernos intentan hacer, pero David lo lleva a otro nivel.  Y las uñas, los dedos... utilizó materiales super innovadores como la piroxilina y aglutinantes sintéticos. Estos no eran solo pinturas normales, sino mezclas especiales que le permitían crear texturas y volúmenes únicos.",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Ves este autorretrato? Es de David Alfaros y Queiros, un artista que no le tenía miedo a nada en el mundo del arte. Este cuadro es como una ventana a su alma: fuerte, intensa, ¡y no para cualquiera!  Piénsalo: si te hicieras un autorretrato, ¿qué parte de ti quisieras resaltar con estas texturas y colores? ¿Qué color y textura crees que representaría mejor tu personalidad? ¡Imagínate cómo sería!",
+            "Autor": "David Alfaros y Queiros",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "Best Maugard",
+            "Panel_Informacion_Izquierdo": "En este retrato, Rivera no solo captura la esencia de Best Mugard, sino que también juega con estilos artísticos. Mira el fondo: está hecho en estilo cubista, con formas y colores que parecen sacados de un rompecabezas. Pero luego, en el primer plano, Best Mugard aparece de forma realista, como si pudieras hablar con él. ¡Es como un combo de dos mundos del arte en uno!  Y no te pierdas el detalle del humo y el tren en el fondo. Rivera fue un genio para dar movimiento a sus pinturas. El tren parece estar vivo, casi como si tuviera escamas que se mueven. Todo esto es una forma de honrar a Best Mugard y su manera de enseñar arte, usando líneas rectas, curvas, espirales, quebradas, ondulantes, puntos intermitentes y zigzags.",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Listo para conocer una obra maestra? Este es el \"Retrato de Adolfo Best Mugard\", creado por el famoso Diego Rivera. ¿Sabes quién fue Adolfo Best Mugard? Un pintor revolucionario que creía que el arte era para todos. ¡Imagínate eso!  Ahora, piensa en esto: ¿Te animarías a dibujar un paisaje usando estas líneas que propuso Best Mugard? ¡Sería un desafío divertido y creativo! ",
+            "Autor": "Diego Rivera",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "Cañada De Metlac",
+            "Panel_Informacion_Izquierdo": "En esta pintura, hay dos protagonistas: el tren y las plantas. El tren recorre el paisaje, como una serpiente de acero entre la naturaleza. Pero, ¿y las plantas? Son especiales porque el artista, José María Velasco, era también botánico. Cada planta está dibujada con tal detalle que casi puedes identificar cada una. ¡Es como tener un libro de botánica en una pintura!  Velasco usó una técnica genial llamada 'sección áurea' para hacer que todo en la pintura fluya y gire armoniosamente. Imagínate un espiral que guía tu mirada a través de la obra, ¡es magia pura!",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Estás listo para explorar un paisaje increíble? Esta obra se llama \"La Cañada de Metlac\". Lo primero que te va a llamar la atención es la composición. ¡Es como una sinfonía visual!  Ahora, piensa en esto: si tuvieras que añadir un elemento moderno a este paisaje, ¿cuál sería? ¿Un rascacielos, un avión, algo de tecnología? ¡Un paisaje puede ser tanto natural como urbano! ",
+            "Autor": "José María Velasco",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "El Globo",
+            "Panel_Informacion_Izquierdo": "La escena muestra a una multitud alrededor de un globo gigante que está a punto de elevarse. El personaje principal podría ser el globo mismo, representando algo más grande que la vida, algo emocionante y nuevo. ¿Y has notado los colores del globo? ¿A quién o qué te recuerdan? ¿Tal vez a la diversidad y riqueza cultural de México?  El acto de elevar el globo simboliza muchas cosas: esperanza, aspiraciones, el deseo de alcanzar lo inalcanzable. Es como si el globo llevara consigo los sueños y deseos de la gente que lo rodea.  Ahora, fíjate en las expresiones de las personas. Algunas están emocionadas, otras quizás un poco temerosas. Esto nos lleva a preguntarnos: ¿qué está pasando en sus vidas? ¿Qué significa para ellos ver este globo elevarse?  ",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Alguna vez has visto un globo elevarse y has sentido esa mezcla de emoción y asombro? Eso es justo lo que captura la pintura \"El Globo\". Pero, ¿qué está pasando aquí?  Imagina que tú estás en esa multitud y México es el globo. Si México fuera un globo, ¿te unirías a la muchedumbre para verlo elevarse? ¿Qué significaría eso para ti?",
+            "Autor": "X",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "Cristobal Color En La Corte",
+            "Panel_Informacion_Izquierdo": "Esta obra pertenece al género histórico y muestra a Cristóbal Colón en el momento en que compartía sus descubrimientos de América con los reyes y personas de la corte. Mira cómo el artista ha destacado a los reyes, a Colón y a representantes de los pueblos originarios, como los mexicas. Cada personaje está pintado con tanta atención al detalle que casi puedes escuchar los murmullos y sentir la tensión del momento.  En cuanto a los detalles técnicos, como el año, el título, la técnica, las medidas, el autor y a veces el año de su muerte, son esos pequeños datos que nos ayudan a entender mejor la obra y su contexto.",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Alguna vez te has preguntado cómo fue la llegada de Cristóbal Colón a América? Esta pintura, \"Cristóbal Colón en la corte\", nos lleva directo a ese momento histórico. Es una ventana al pasado que nos cuenta una historia increíble.  Hablando del contexto histórico, esta pintura nos hace una pregunta interesante: ¿son solo los personajes iluminados los protagonistas de esta historia? Fíjate cómo la luz juega un papel crucial aquí, destacando a ciertos personajes y dejando a otros en sombras. ¿Qué nos dice esto sobre quiénes eran considerados importantes en esa época?",
+            "Autor": "X",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "El Mar De Ledsema",
+            "Panel_Informacion_Izquierdo": "Primero, observa la figura central: una mujer de belleza enigmática. Pero el artista quiere que mires más allá de su belleza. Fíjate en las expresiones de su rostro. ¿Qué historias crees que esconde? Cada uno de nosotros, dependiendo de nuestra cultura y experiencias, puede ver una historia diferente en su mirada.  Ahora, mira los cambios de escenario en la pintura. Un momento estás viendo un ambiente destruido por el fuego, y al siguiente, parece como si acabara de ocurrir un terremoto. Luego, de repente, estás en una escena soleada con sonidos de playa. Estos cambios no son solo visuales, sino que también juegan con tus sentidos, haciendo que sientas el calor del fuego o la brisa del mar.  El artista es conocido por incorporar escenografías en sus obras. No solo pinta cuadros; crea mundos enteros. Cada escenario te cuenta una parte diferente de la historia. Es como si cada parte de la pintura fuera una página de un libro mágico.",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Estás listo para un viaje a través del arte y la imaginación? \"El Mar de Ledsema\" no es solo una pintura; es una invitación a crear tu propia historia. ¿Listo para zambullirte?  Piensa en esto: si pudieras añadir tu propio escenario a esta pintura, ¿cómo sería? ¿Qué historia contarías a través de los colores y los efectos de sonido?",
+            "Autor": "X",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "El Velorio De Jose Jara",
+            "Panel_Informacion_Izquierdo": "La primera cosa que notarás es que todo está dispuesto en espiral. Es como un remolino de emociones y vida que te atrapa desde el momento en que pones tus ojos en la pintura. Mira cómo la espiral comienza con un pilar, luego te lleva a la pintura en la pared, después a la mujer rezando en la oscuridad, seguido por niños con caras sonrientes, personas inclinadas en oración, un hombre al lado del pilar, y finalmente, un niño inclinado y una mujer con una vela.  Esta composición en espiral no es solo bella, sino que también es muy significativa. Cada personaje, iluminado por las velas, cuenta una parte de la historia del velorio. Y esos rezos que casi puedes escuchar, añaden una capa más de realismo y emoción a la escena.  Fíjate en cómo la luz de la vela resalta los detalles, incluso en la penumbra. Es un juego de luces y sombras que hace que la escena se sienta viva, íntima y real.",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Alguna vez has visto una pintura que te cuente una historia sin decir una palabra? Eso es \"El Velorio de José Jara\", una obra que nos lleva directo a los finales del siglo 19. Es una pintura costumbrista, que significa que muestra la vida y costumbres de esa época.  Ahora, piensa en esto: si estuvieras en esa habitación, ¿qué sentirías? ¿Qué historias podrías contar solo con observar los rostros y las posturas de las personas presentes?",
+            "Autor": "X",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "Fray Bartolome De Las Casas",
+            "Panel_Informacion_Izquierdo": "Fray Bartolomé de las Casas fue un fraile dominico español conocido por su defensa apasionada de los derechos de los pueblos indígenas en las Américas durante la época de la colonización española. En esta pintura, es probable que veas a un hombre con una expresión seria, profunda, que refleja su compromiso con la justicia y la humanidad.  Imagínate los colores y los trazos usados para retratar su figura: probablemente, tonos oscuros y sobrios que reflejan la seriedad de su misión. Su mirada, intensa y pensativa, capturando la esencia de un hombre que luchó incansablemente contra la opresión.  En el fondo, podrías encontrar elementos que simbolizan su vida y obra: libros que representan su erudición, una cruz que indica su devoción religiosa, y posiblemente imágenes alusivas a las Américas, recordándonos su conexión con este continente.",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Te has encontrado alguna vez con un retrato que parece contar una historia con solo una mirada? Eso es lo que sentirás al ver \"Fra Bartolomé de las Casas\". Este retrato es más que una simple imagen; es un portal a la historia y a la moral.  Ahora, piensa en esto: si pudieras hablar con Fra Bartolomé, ¿qué le preguntarías? ¿Cómo te inspira su historia en tu vida diaria?",
+            "Autor": "X",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "Julio Castellanos",
+            "Panel_Informacion_Izquierdo": "Julio Castellanos era un artista con múltiples talentos. Aunque conocido como escultor, en este retrato, puedes imaginarlo como un titiritero. ¿Qué pasaría si elimináramos su herramienta de escultor, el sincel? ¿Qué otra historia podríamos imaginar sobre él?  La pintura hace un énfasis especial en las emociones. Observa la expresión de Castellanos, la intensidad en sus ojos, la postura de su cuerpo. Todo esto nos cuenta una historia no solo sobre el hombre, sino también sobre su época y su entorno.  La obra también evoca la época posterior a la conquista armada, adentrándonos en la conquista religiosa. Imagina un efecto de polvo en el ambiente, un goteo sutil que simboliza el sangrado y un tambaleo de la cruz. Todo esto añade una capa de profundidad y simbolismo a la pintura.  Finalmente, la pintura nos revela una escena dramática: acaban de matar a un hombre. Este detalle crucial nos lleva a reflexionar sobre el impacto de estos eventos históricos en las personas y en la cultura.",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Alguna vez has visto un retrato que te haga preguntarte sobre la historia detrás de la persona? Eso es lo que sentirás con \"Julio Castellanos\". Esta obra no es solo un retrato; es una ventana a una historia profunda y compleja.   Piensa en esto: si fueras retratado, ¿cómo te gustaría que capturaran tu esencia? ¿Qué emociones y aspectos de tu personalidad te gustaría que destacaran?   Presta atención a los patrones de fondo y cómo se relacionan con el contexto mexica. ¿Notas cómo estos elementos se animan sutilmente, sugiriendo el movimiento y la transformación causados por la evangelización?",
+            "Autor": "X",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "La Divina Pastora",
+            "Panel_Informacion_Izquierdo": "En esta pintura, cada elemento tiene un significado profundo. Empecemos con la corona y sus estrellas que adorna a la Divina Pastora. Representan su papel como la Reina del Cielo. Fíjate en cómo brillan, casi como si estuvieran vivas.  Ahora, observa los corderos que la rodean. ¿Notas que cada uno lleva una rosa? Estas rosas no son meros adornos. Simbolizan los rezos amorosos de todos sus seguidores. Es un hermoso recordatorio de que, a pesar de las \"ovejas descarriadas\", el amor y la devoción siempre están presentes.  Mira más de cerca el tronco junto a ella. Los clavos incrustados en él simbolizan el dolor que enfrentará. Es un detalle sutil pero poderoso que habla del sacrificio y la fortaleza.  Y ahí, al lado, está el arcángel Miguel, preparado para luchar contra el demonio. Su casco resalta en la escena, recordándonos su valentía y su papel protector.  Lo más impresionante es la forma en que la Virgen es representada. Un brillo suave ilumina su cabeza y las estrellas, enfatizando su divinidad y su papel celestial.",
+            "Panel_Informacion_Derecho": "¡Hola! Prepárate para sumergirte en una obra de arte que es tanto una maravilla visual como un tesoro de simbolismo. \"La Divina Pastora\", pintada por Miguel Cabrera, a menudo considerado el Miguel Ángel mexicano, es una verdadera joya.  Piensa en esto: si pudieras agregar un símbolo a esta pintura, ¿cuál sería y qué representaría para ti?",
+            "Autor": "Miguel Cabrera",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "La Nube",
+            "Panel_Informacion_Izquierdo": "Dr. Atl era conocido por su habilidad para pintar la naturaleza con una intensidad y un dinamismo que casi puedes sentir. En \"La Nube\", no solo verás una nube en el cielo, sino que experimentarás la grandiosidad y el movimiento constante del ambiente.  La nube aquí es más que una simple masa de vapor en el cielo; es una manifestación de la energía y el espíritu de la naturaleza. Observa cómo las pinceladas y los colores se combinan para dar vida y movimiento a la nube. Es como si pudieras ver los vientos soplando y la nube cambiando de forma ante tus ojos.  Dr. Atl no solo quería mostrar la belleza de la naturaleza; quería que sintieras una conexión con ella. Mira cómo juega con la luz y la sombra, cómo cada tono de color añade profundidad y emoción a la escena.",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Alguna vez has mirado al cielo y te has perdido en las formas de las nubes? \"La Nube\" de Gerardo Murillo Coronado, más conocido como Dr. Atl, captura ese mismo sentimiento de asombro y belleza.  Ahora, imagínate a ti mismo en esta pintura. ¿Cómo te sentirías bajo esta inmensa nube? ¿Qué emociones te evoca?",
+            "Autor": "Gerardo Murillo Coronado, más conocido como Dr. Atl",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "Paisaje Zapatista",
+            "Panel_Informacion_Izquierdo": "En esta obra, cada figura geométrica cuenta una historia diferente de la Revolución. Triángulos, cilindros y otras formas se unen para crear una narrativa visual. ¿Puedes sentir cómo cada recorte y cada forma te hablan de un momento diferente de la lucha?  Ahora, fíjate en los detalles que simbolizan la Revolución: el bigote y el cinturón, que nos recuerdan a los caudillos del norte y del sur; la escopeta y el zarape, íconos de los revolucionarios; y los ojos que parpadean, representando a hombres y mujeres que lucharon juntos.  Imagina que los árboles se mueven sutilmente, y un cubo de mármol y el mar están presentes, simbolizando que la Revolución afectó a todo el país. Y, si te fijas bien, verás la silueta de un rifle formada por la nariz y la pata de un molcajete, creando la imagen de un personaje.  El molcajete, además, tiene otro significado: representa a la mujer en la Revolución. Es un recordatorio sutil pero poderoso de su papel en este movimiento histórico.",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Estás listo para un viaje en el tiempo a través del arte? \"Paisaje Zapatista\" no es solo una pintura, es una cápsula del tiempo que nos lleva directo a la Revolución Mexicana, y lo hace a través del cubismo, un estilo que rompe con la tradición y nos hace ver las cosas desde una perspectiva totalmente nueva.   Piensa en esto: si pudieras añadir otro elemento a esta pintura que te recordara la Revolución, ¿cuál sería?",
+            "Autor": "X",
+            "Ubicacion": "x"
+        },
+        {
+            "Nombre_Obra": "Tota Pulchra",
+            "Panel_Informacion_Izquierdo": "Baltasar de Echave Ibía, un pintor de gran renombre en su época, era conocido por su habilidad para capturar la espiritualidad y la devoción en sus obras. \"Tota Pulchra\", que significa \"Totalmente Hermosa\", es probablemente un retrato religioso, lleno de simbolismo y significado.  Imagina una representación de una figura sagrada, tal vez la Virgen María, destacada por su gracia y su belleza etérea. Los colores son ricos y profundos, con un uso magistral de la luz y la sombra para crear una atmósfera de reverencia y admiración.  Los detalles son impresionantes: desde las delicadas texturas de las telas hasta los intrincados patrones de oro y joyas, cada elemento está pintado con una precisión que resalta la importancia de la figura representada.",
+            "Panel_Informacion_Derecho": "¡Hola! ¿Estás listo para sumergirte en un viaje al pasado a través del arte? \"Tota Pulchra\", creada por Baltasar de Echave Ibía, es una obra que te transporta directamente al México del siglo XVII.  Ahora, piensa en esto: si pudieras agregar un detalle moderno a esta obra, ¿cuál sería y cómo crees que cambiaría la interpretación de la pintura?",
+            "Autor": "Baltasar de Echave Ibía",
+            "Ubicacion": "x"
+        }
+    ]
+}

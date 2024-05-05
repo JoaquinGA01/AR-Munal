@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ElMarDeLedsema" size="0.500000 0.592175" />
+    <ImageTarget name="TotaPulchra" size="0.500000 0.741481" />
+    <ImageTarget name="PaisajeZapatista" size="0.500000 0.596854" />
+    <ImageTarget name="LaNube" size="0.500000 0.390222" />
+    <ImageTarget name="LaDivinaPastora" size="0.500000 0.614384" />
+    <ImageTarget name="JulioCastellanos" size="0.500000 0.644792" />
+    <ImageTarget name="FrayBartolomeDeLasCasas" size="0.500000 0.683206" />
+    <ImageTarget name="ElVelorioDeJoseJara" size="0.500000 0.656848" />
+    <ImageTarget name="ElGlobo" size="0.500000 0.443669" />
+    <ImageTarget name="CristobalColonEnLaCorte" size="0.500000 0.352872" />
+    <ImageTarget name="CanadaDeMetlac" size="0.500000 0.327233" />
+    <ImageTarget name="BestMaugard" size="0.500000 0.712919" />
+    <ImageTarget name="AutoRetrato" size="0.500000 0.379237" />
+  </Tracking>
+</QCARConfig>
