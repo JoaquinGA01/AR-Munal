@@ -51,8 +51,8 @@ public class Controlador_Informacion_Lista : MonoBehaviour
         Obra_Informarcion obraActual = Informacion_Obras[indiceActual];
 
         Titulo.text = obraActual.Nombre_Obra;
-        Autor.text = obraActual.Autor;
-        Ubicacion.text = obraActual.Ubicacion;
+        Autor.text = "Autor: " + obraActual.Autor;
+        Ubicacion.text = "Ubicacion en el Museo: " + obraActual.Ubicacion;
 
         // Carga la imagen desde Resources/NombreObra/NombreObra.png
         Sprite imagenObra = Resources.Load<Sprite>($"{obraActual.Nombre_Obra}/{obraActual.Nombre_Obra}");
