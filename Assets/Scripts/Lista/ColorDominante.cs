@@ -22,7 +22,7 @@ public class ColorDominante : MonoBehaviour
         {
             // Si la imagen no es accesible, establece un color de fondo predeterminado.
             // El color que proporcionaste (292929) parece estar en hexadecimal. Vamos a convertirlo a Color de Unity.
-            Color defaultColor = new Color32(0x29, 0x29, 0x29, 0xFF); // Asegúrate de que el último valor (FF) sea para la opacidad completa.
+            Color defaultColor = new Color32(0x29, 0x29, 0x29, 0xC8); // Asegúrate de que el último valor (FF) sea para la opacidad completa.
             imageTarget.color = defaultColor;
         }
     }
@@ -46,7 +46,7 @@ public class ColorDominante : MonoBehaviour
         tempColor.r = totalR / totalPixels / 255f;
         tempColor.g = totalG / totalPixels / 255f;
         tempColor.b = totalB / totalPixels / 255f;
-        tempColor.a = 1; // Ajusta la transparencia según sea necesario.
+        tempColor.a = 220 / 255f; // Establecer la opacidad a 200/255.
 
         return tempColor;
     }
