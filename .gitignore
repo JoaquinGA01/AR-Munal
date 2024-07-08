@@ -60,7 +60,10 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
-
+*.mp4
+*.png
+*.jpg
+*.tgz
 # Crashlytics generated file
 crashlytics-build.properties
 

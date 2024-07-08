@@ -1,0 +1,326 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d23af012c861174eb34e9f29cc6bc83, type: 3}
+  m_Name: ArtWorkDataStorage
+  m_EditorClassIdentifier: 
+  ArtWorks:
+  - Nombre_Obra: El Coronelazo
+    Autor_Obra: David Alfaros y Queiros
+    Informacion_Audio: "\xA1Hola! \xBFVes este autorretrato? Es de David Alfaros
+      y Queiros, un artista que no le ten\xEDa miedo a nada en el mundo del arte.
+      Este cuadro es como una ventana a su alma: fuerte, intensa, \xA1y no para cualquiera! 
+      Pi\xE9nsalo: si te hicieras un autorretrato, \xBFqu\xE9 parte de ti quisieras
+      resaltar con estas texturas y colores? \xBFQu\xE9 color y textura crees que
+      representar\xEDa mejor tu personalidad? \xA1Imag\xEDnate c\xF3mo ser\xEDa!\""
+    Informacion_Extra: "F\xEDjate en c\xF3mo brilla cada color. David era un mago
+      mezclando t\xE9cnicas y materiales. Su meta era hacer que los colores saltaran
+      del lienzo, como si fueran fuegos artificiales. Mira su cara, iluminada, y
+      la camisa roja... \xA1es como si el rojo tuviera vida propia! Usaba estas t\xE9cnicas
+      no solo para mostrar su estilo, sino tambi\xE9n su personalidad vibrante. 
+      Ahora, observa su brazo. Los colores y las formas est\xE1n hechos de manera
+      que casi puedes sentir la textura solo mir\xE1ndolos. Esto es algo que muchos
+      pintores modernos intentan hacer, pero David lo lleva a otro nivel.  Y las
+      u\xF1as, los dedos... utiliz\xF3 materiales super innovadores como la piroxilina
+      y aglutinantes sint\xE9ticos. Estos no eran solo pinturas normales, sino mezclas
+      especiales que le permit\xEDan crear texturas y vol\xFAmenes \xFAnicos."
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: AutoRetrato
+    Fecha: 1945
+    Obra_Instanciada: 
+  - Nombre_Obra: Retrato de Adolfo Best Maugard
+    Autor_Obra: Diego Rivera
+    Informacion_Audio: "\xA1Hola! \xBFListo para conocer una obra maestra? Este es
+      el \\\"Retrato de Adolfo Best Mugard\\\", creado por el famoso Diego Rivera.
+      \xBFSabes qui\xE9n fue Adolfo Best Mugard? Un pintor revolucionario que cre\xEDa
+      que el arte era para todos. \xA1Imag\xEDnate eso!  Ahora, piensa en esto: \xBFTe
+      animar\xEDas a dibujar un paisaje usando estas l\xEDneas que propuso Best Mugard?
+      \xA1Ser\xEDa un desaf\xEDo divertido y creativo!"
+    Informacion_Extra: "En este retrato, Rivera no solo captura la esencia de Best
+      Mugard, sino que tambi\xE9n juega con estilos art\xEDsticos. Mira el fondo:
+      est\xE1 hecho en estilo cubista, con formas y colores que parecen sacados de
+      un rompecabezas. Pero luego, en el primer plano, Best Mugard aparece de forma
+      realista, como si pudieras hablar con \xE9l. \xA1Es como un combo de dos mundos
+      del arte en uno!  Y no te pierdas el detalle del humo y el tren en el fondo.
+      Rivera fue un genio para dar movimiento a sus pinturas. El tren parece estar
+      vivo, casi como si tuviera escamas que se mueven. Todo esto es una forma de
+      honrar a Best Mugard y su manera de ense\xF1ar arte, usando l\xEDneas rectas,
+      curvas, espirales, quebradas, ondulantes, puntos intermitentes y zigzags."
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: BestMaugard
+    Fecha: 1913
+    Obra_Instanciada: 
+  - Nombre_Obra: "Ca\xF1ada De Metlac   "
+    Autor_Obra: "Jos\xE9 Mar\xEDa Velasco"
+    Informacion_Audio: "\xA1Hola! \xBFEst\xE1s listo para explorar un paisaje incre\xEDble?
+      Esta obra se llama \\\"La Ca\xF1ada de Metlac\\\". Lo primero que te va a llamar
+      la atenci\xF3n es la composici\xF3n. \xA1Es como una sinfon\xEDa visual!  Ahora,
+      piensa en esto: si tuvieras que a\xF1adir un elemento moderno a este paisaje,
+      \xBFcu\xE1l ser\xEDa? \xBFUn rascacielos, un avi\xF3n, algo de tecnolog\xEDa?
+      \xA1Un paisaje puede ser tanto natural como urbano!"
+    Informacion_Extra: "En esta pintura, hay dos protagonistas: el tren y las plantas.
+      El tren recorre el paisaje, como una serpiente de acero entre la naturaleza.
+      Pero, \xBFy las plantas? Son especiales porque el artista, Jos\xE9 Mar\xEDa
+      Velasco, era tambi\xE9n bot\xE1nico. Cada planta est\xE1 dibujada con tal detalle
+      que casi puedes identificar cada una. \xA1Es como tener un libro de bot\xE1nica
+      en una pintura!  Velasco us\xF3 una t\xE9cnica genial llamada 'secci\xF3n \xE1urea'
+      para hacer que todo en la pintura fluya y gire armoniosamente. Imag\xEDnate
+      un espiral que gu\xEDa tu mirada a trav\xE9s de la obra, \xA1es magia pura!"
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: CanadaDeMetlac
+    Fecha: 
+    Obra_Instanciada: 
+  - Nombre_Obra: El Globo
+    Autor_Obra: Juan Cordero
+    Informacion_Audio: "\xA1Hola! \xBFAlguna vez has visto un globo elevarse y has
+      sentido esa mezcla de emoci\xF3n y asombro? Eso es justo lo que captura la
+      pintura \\\"El Globo\\\". Pero, \xBFqu\xE9 est\xE1 pasando aqu\xED?  Imagina
+      que t\xFA est\xE1s en esa multitud y M\xE9xico es el globo. Si M\xE9xico fuera
+      un globo, \xBFte unir\xEDas a la muchedumbre para verlo elevarse? \xBFQu\xE9
+      significar\xEDa eso para ti?"
+    Informacion_Extra: "La escena muestra a una multitud alrededor de un globo gigante
+      que est\xE1 a punto de elevarse. El personaje principal podr\xEDa ser el globo
+      mismo, representando algo m\xE1s grande que la vida, algo emocionante y nuevo.
+      \xBFY has notado los colores del globo? \xBFA qui\xE9n o qu\xE9 te recuerdan?
+      \xBFTal vez a la diversidad y riqueza cultural de M\xE9xico?  El acto de elevar
+      el globo simboliza muchas cosas: esperanza, aspiraciones, el deseo de alcanzar
+      lo inalcanzable. Es como si el globo llevara consigo los sue\xF1os y deseos
+      de la gente que lo rodea.  Ahora, f\xEDjate en las expresiones de las personas.
+      Algunas est\xE1n emocionadas, otras quiz\xE1s un poco temerosas. Esto nos lleva
+      a preguntarnos: \xBFqu\xE9 est\xE1 pasando en sus vidas? \xBFQu\xE9 significa
+      para ellos ver este globo elevarse?"
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: ElGlobo
+    Fecha: 
+    Obra_Instanciada: 
+  - Nombre_Obra: "Crist\xF3bal Colon En La Corte"
+    Autor_Obra: Juan Cordero
+    Informacion_Audio: "\xA1Hola! \xBFAlguna vez te has preguntado c\xF3mo fue la
+      llegada de Crist\xF3bal Col\xF3n a Am\xE9rica? Esta pintura, \\\"Crist\xF3bal
+      Col\xF3n en la corte\\\", nos lleva directo a ese momento hist\xF3rico. Es
+      una ventana al pasado que nos cuenta una historia incre\xEDble.  Hablando del
+      contexto hist\xF3rico, esta pintura nos hace una pregunta interesante: \xBFson
+      solo los personajes iluminados los protagonistas de esta historia? F\xEDjate
+      c\xF3mo la luz juega un papel crucial aqu\xED, destacando a ciertos personajes
+      y dejando a otros en sombras. \xBFQu\xE9 nos dice esto sobre qui\xE9nes eran
+      considerados importantes en esa \xE9poca?"
+    Informacion_Extra: "Esta obra pertenece al g\xE9nero hist\xF3rico y muestra a
+      Crist\xF3bal Col\xF3n en el momento en que compart\xEDa sus descubrimientos
+      de Am\xE9rica con los reyes y personas de la corte. Mira c\xF3mo el artista
+      ha destacado a los reyes, a Col\xF3n y a representantes de los pueblos originarios,
+      como los mexicas. Cada personaje est\xE1 pintado con tanta atenci\xF3n al detalle
+      que casi puedes escuchar los murmullos y sentir la tensi\xF3n del momento. 
+      En cuanto a los detalles t\xE9cnicos, como el a\xF1o, el t\xEDtulo, la t\xE9cnica,
+      las medidas, el autor y a veces el a\xF1o de su muerte, son esos peque\xF1os
+      datos que nos ayudan a entender mejor la obra y su contexto."
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: CristobalColonEnLaCorte
+    Fecha: 
+    Obra_Instanciada: 
+  - Nombre_Obra: El Mar
+    Autor_Obra: "Gabriel Fern\xE1ndez Ledesma"
+    Informacion_Audio: "\xA1Hola! \xBFEst\xE1s listo para un viaje a trav\xE9s del
+      arte y la imaginaci\xF3n? \\\"El Mar de Ledsema\\\" no es solo una pintura;
+      es una invitaci\xF3n a crear tu propia historia. \xBFListo para zambullirte? 
+      Piensa en esto: si pudieras a\xF1adir tu propio escenario a esta pintura, \xBFc\xF3mo
+      ser\xEDa? \xBFQu\xE9 historia contar\xEDas a trav\xE9s de los colores y los
+      efectos de sonido?"
+    Informacion_Extra: "Primero, observa la figura central: una mujer de belleza
+      enigm\xE1tica. Pero el artista quiere que mires m\xE1s all\xE1 de su belleza.
+      F\xEDjate en las expresiones de su rostro. \xBFQu\xE9 historias crees que esconde?
+      Cada uno de nosotros, dependiendo de nuestra cultura y experiencias, puede
+      ver una historia diferente en su mirada.  Ahora, mira los cambios de escenario
+      en la pintura. Un momento est\xE1s viendo un ambiente destruido por el fuego,
+      y al siguiente, parece como si acabara de ocurrir un terremoto. Luego, de repente,
+      est\xE1s en una escena soleada con sonidos de playa. Estos cambios no son solo
+      visuales, sino que tambi\xE9n juegan con tus sentidos, haciendo que sientas
+      el calor del fuego o la brisa del mar.  El artista es conocido por incorporar
+      escenograf\xEDas en sus obras. No solo pinta cuadros; crea mundos enteros.
+      Cada escenario te cuenta una parte diferente de la historia. Es como si cada
+      parte de la pintura fuera una p\xE1gina de un libro m\xE1gico."
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: ElMarDeLedsema
+    Fecha: 
+    Obra_Instanciada: 
+  - Nombre_Obra: El Velorio
+    Autor_Obra: Jose Maria Jara
+    Informacion_Audio: "\xA1Hola! \xBFAlguna vez has visto una pintura que te cuente
+      una historia sin decir una palabra? Eso es \\\"El Velorio de Jos\xE9 Jara\\\",
+      una obra que nos lleva directo a los finales del siglo 19. Es una pintura costumbrista,
+      que significa que muestra la vida y costumbres de esa \xE9poca.  Ahora, piensa
+      en esto: si estuvieras en esa habitaci\xF3n, \xBFqu\xE9 sentir\xEDas? \xBFQu\xE9
+      historias podr\xEDas contar solo con observar los rostros y las posturas de
+      las personas presentes?\""
+    Informacion_Extra: "La primera cosa que notar\xE1s es que todo est\xE1 dispuesto
+      en espiral. Es como un remolino de emociones y vida que te atrapa desde el
+      momento en que pones tus ojos en la pintura. Mira c\xF3mo la espiral comienza
+      con un pilar, luego te lleva a la pintura en la pared, despu\xE9s a la mujer
+      rezando en la oscuridad, seguido por ni\xF1os con caras sonrientes, personas
+      inclinadas en oraci\xF3n, un hombre al lado del pilar, y finalmente, un ni\xF1o
+      inclinado y una mujer con una vela.  Esta composici\xF3n en espiral no es solo
+      bella, sino que tambi\xE9n es muy significativa. Cada personaje, iluminado
+      por las velas, cuenta una parte de la historia del velorio. Y esos rezos que
+      casi puedes escuchar, a\xF1aden una capa m\xE1s de realismo y emoci\xF3n a
+      la escena.  F\xEDjate en c\xF3mo la luz de la vela resalta los detalles, incluso
+      en la penumbra. Es un juego de luces y sombras que hace que la escena se sienta
+      viva, \xEDntima y real."
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: ElVelorioDeJoseJara
+    Fecha: 
+    Obra_Instanciada: 
+  - Nombre_Obra: Fray Bartolome De Las Casas
+    Autor_Obra: Felix Parra
+    Informacion_Audio: "\xA1Hola! \xBFTe has encontrado alguna vez con un retrato
+      que parece contar una historia con solo una mirada? Eso es lo que sentir\xE1s
+      al ver \\\"Fra Bartolom\xE9 de las Casas\\\". Este retrato es m\xE1s que una
+      simple imagen; es un portal a la historia y a la moral.  Ahora, piensa en esto:
+      si pudieras hablar con Fra Bartolom\xE9, \xBFqu\xE9 le preguntar\xEDas? \xBFC\xF3mo
+      te inspira su historia en tu vida diaria?"
+    Informacion_Extra: "Fray Bartolom\xE9 de las Casas fue un fraile dominico espa\xF1ol
+      conocido por su defensa apasionada de los derechos de los pueblos ind\xEDgenas
+      en las Am\xE9ricas durante la \xE9poca de la colonizaci\xF3n espa\xF1ola. En
+      esta pintura, es probable que veas a un hombre con una expresi\xF3n seria,
+      profunda, que refleja su compromiso con la justicia y la humanidad.  Imag\xEDnate
+      los colores y los trazos usados para retratar su figura: probablemente, tonos
+      oscuros y sobrios que reflejan la seriedad de su misi\xF3n. Su mirada, intensa
+      y pensativa, capturando la esencia de un hombre que luch\xF3 incansablemente
+      contra la opresi\xF3n.  En el fondo, podr\xEDas encontrar elementos que simbolizan
+      su vida y obra: libros que representan su erudici\xF3n, una cruz que indica
+      su devoci\xF3n religiosa, y posiblemente im\xE1genes alusivas a las Am\xE9ricas,
+      record\xE1ndonos su conexi\xF3n con este continente."
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: FrayBartolomeDeLasCasas
+    Fecha: 
+    Obra_Instanciada: 
+  - Nombre_Obra: "El Retrato de Germ\xE1n Cueto"
+    Autor_Obra: Julio Castellanos
+    Informacion_Audio: "\xA1Hola! \xBFAlguna vez has visto un retrato que te haga
+      preguntarte sobre la historia detr\xE1s de la persona? Eso es lo que sentir\xE1s
+      con \\\"Julio Castellanos\\\". Esta obra no es solo un retrato; es una ventana
+      a una historia profunda y compleja.   Piensa en esto: si fueras retratado,
+      \xBFc\xF3mo te gustar\xEDa que capturaran tu esencia? \xBFQu\xE9 emociones
+      y aspectos de tu personalidad te gustar\xEDa que destacaran?   Presta atenci\xF3n
+      a los patrones de fondo y c\xF3mo se relacionan con el contexto mexica. \xBFNotas
+      c\xF3mo estos elementos se animan sutilmente, sugiriendo el movimiento y la
+      transformaci\xF3n causados por la evangelizaci\xF3n?\"."
+    Informacion_Extra: "Julio Castellanos era un artista con m\xFAltiples talentos.
+      Aunque conocido como escultor, en este retrato, puedes imaginarlo como un titiritero.
+      \xBFQu\xE9 pasar\xEDa si elimin\xE1ramos su herramienta de escultor, el sincel?
+      \xBFQu\xE9 otra historia podr\xEDamos imaginar sobre \xE9l?  La pintura hace
+      un \xE9nfasis especial en las emociones. Observa la expresi\xF3n de Castellanos,
+      la intensidad en sus ojos, la postura de su cuerpo. Todo esto nos cuenta una
+      historia no solo sobre el hombre, sino tambi\xE9n sobre su \xE9poca y su entorno. 
+      La obra tambi\xE9n evoca la \xE9poca posterior a la conquista armada, adentr\xE1ndonos
+      en la conquista religiosa. Imagina un efecto de polvo en el ambiente, un goteo
+      sutil que simboliza el sangrado y un tambaleo de la cruz. Todo esto a\xF1ade
+      una capa de profundidad y simbolismo a la pintura.  Finalmente, la pintura
+      nos revela una escena dram\xE1tica: acaban de matar a un hombre. Este detalle
+      crucial nos lleva a reflexionar sobre el impacto de estos eventos hist\xF3ricos
+      en las personas y en la cultura."
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: JulioCastellanos
+    Fecha: 
+    Obra_Instanciada: 
+  - Nombre_Obra: La Divina Pastora
+    Autor_Obra: Miguel Cabrera
+    Informacion_Audio: "\xA1Hola! Prep\xE1rate para sumergirte en una obra de arte
+      que es tanto una maravilla visual como un tesoro de simbolismo. \\\"La Divina
+      Pastora\\\", pintada por Miguel Cabrera, a menudo considerado el Miguel \xC1ngel
+      mexicano, es una verdadera joya.  Piensa en esto: si pudieras agregar un s\xEDmbolo
+      a esta pintura, \xBFcu\xE1l ser\xEDa y qu\xE9 representar\xEDa para ti?"
+    Informacion_Extra: "En esta pintura, cada elemento tiene un significado profundo.
+      Empecemos con la corona y sus estrellas que adorna a la Divina Pastora. Representan
+      su papel como la Reina del Cielo. F\xEDjate en c\xF3mo brillan, casi como si
+      estuvieran vivas.  Ahora, observa los corderos que la rodean. \xBFNotas que
+      cada uno lleva una rosa? Estas rosas no son meros adornos. Simbolizan los rezos
+      amorosos de todos sus seguidores. Es un hermoso recordatorio de que, a pesar
+      de las \\\"ovejas descarriadas\\\", el amor y la devoci\xF3n siempre est\xE1n
+      presentes.  Mira m\xE1s de cerca el tronco junto a ella. Los clavos incrustados
+      en \xE9l simbolizan el dolor que enfrentar\xE1. Es un detalle sutil pero poderoso
+      que habla del sacrificio y la fortaleza.  Y ah\xED, al lado, est\xE1 el arc\xE1ngel
+      Miguel, preparado para luchar contra el demonio. Su casco resalta en la escena,
+      record\xE1ndonos su valent\xEDa y su papel protector.  Lo m\xE1s impresionante
+      es la forma en que la Virgen es representada. Un brillo suave ilumina su cabeza
+      y las estrellas, enfatizando su divinidad y su papel celestial."
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: LaDivinaPastora
+    Fecha: 
+    Obra_Instanciada: 
+  - Nombre_Obra: La Nube
+    Autor_Obra: "Gerardo Murillo Coronado, m\xE1s conocido como Dr. Atl"
+    Informacion_Audio: "\xA1Hola! \xBFAlguna vez has mirado al cielo y te has perdido
+      en las formas de las nubes? \\\"La Nube\\\" de Gerardo Murillo Coronado, m\xE1s
+      conocido como Dr. Atl, captura ese mismo sentimiento de asombro y belleza. 
+      Ahora, imag\xEDnate a ti mismo en esta pintura. \xBFC\xF3mo te sentir\xEDas
+      bajo esta inmensa nube? \xBFQu\xE9 emociones te evoca?"
+    Informacion_Extra: "Dr. Atl era conocido por su habilidad para pintar la naturaleza
+      con una intensidad y un dinamismo que casi puedes sentir. En \\\"La Nube\\\",
+      no solo ver\xE1s una nube en el cielo, sino que experimentar\xE1s la grandiosidad
+      y el movimiento constante del ambiente.  La nube aqu\xED es m\xE1s que una
+      simple masa de vapor en el cielo; es una manifestaci\xF3n de la energ\xEDa
+      y el esp\xEDritu de la naturaleza. Observa c\xF3mo las pinceladas y los colores
+      se combinan para dar vida y movimiento a la nube. Es como si pudieras ver los
+      vientos soplando y la nube cambiando de forma ante tus ojos.  Dr. Atl no solo
+      quer\xEDa mostrar la belleza de la naturaleza; quer\xEDa que sintieras una
+      conexi\xF3n con ella. Mira c\xF3mo juega con la luz y la sombra, c\xF3mo cada
+      tono de color a\xF1ade profundidad y emoci\xF3n a la escena."
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: LaNube
+    Fecha: 
+    Obra_Instanciada: 
+  - Nombre_Obra: Paisaje Zapatista
+    Autor_Obra: Diego Rivera
+    Informacion_Audio: "\xA1Hola! \xBFEst\xE1s listo para un viaje en el tiempo a
+      trav\xE9s del arte? \\\"Paisaje Zapatista\\\" no es solo una pintura, es una
+      c\xE1psula del tiempo que nos lleva directo a la Revoluci\xF3n Mexicana, y
+      lo hace a trav\xE9s del cubismo, un estilo que rompe con la tradici\xF3n y
+      nos hace ver las cosas desde una perspectiva totalmente nueva.   Piensa en
+      esto: si pudieras a\xF1adir otro elemento a esta pintura que te recordara la
+      Revoluci\xF3n, \xBFcu\xE1l ser\xEDa?"
+    Informacion_Extra: "En esta obra, cada figura geom\xE9trica cuenta una historia
+      diferente de la Revoluci\xF3n. Tri\xE1ngulos, cilindros y otras formas se unen
+      para crear una narrativa visual. \xBFPuedes sentir c\xF3mo cada recorte y cada
+      forma te hablan de un momento diferente de la lucha?  Ahora, f\xEDjate en los
+      detalles que simbolizan la Revoluci\xF3n: el bigote y el cintur\xF3n, que nos
+      recuerdan a los caudillos del norte y del sur; la escopeta y el zarape, \xEDconos
+      de los revolucionarios; y los ojos que parpadean, representando a hombres y
+      mujeres que lucharon juntos.  Imagina que los \xE1rboles se mueven sutilmente,
+      y un cubo de m\xE1rmol y el mar est\xE1n presentes, simbolizando que la Revoluci\xF3n
+      afect\xF3 a todo el pa\xEDs. Y, si te fijas bien, ver\xE1s la silueta de un
+      rifle formada por la nariz y la pata de un molcajete, creando la imagen de
+      un personaje.  El molcajete, adem\xE1s, tiene otro significado: representa
+      a la mujer en la Revoluci\xF3n. Es un recordatorio "
+    Ubicacion_Obra: 
+    Nombre_Target: PaisajeZapatista
+    Fecha: 
+    Obra_Instanciada: 
+  - Nombre_Obra: Tota Pulchra
+    Autor_Obra: "Baltasar de Echave Ib\xEDa"
+    Informacion_Audio: "Baltasar de Echave Ib\xEDa, un pintor de gran renombre en
+      su \xE9poca, era conocido por su habilidad para capturar la espiritualidad
+      y la devoci\xF3n en sus obras. \\\"Tota Pulchra\\\", que significa \\\"Totalmente
+      Hermosa\\\", es probablemente un retrato religioso, lleno de simbolismo y significado. 
+      Imagina una representaci\xF3n de una figura sagrada, tal vez la Virgen Mar\xEDa,
+      destacada por su gracia y su belleza et\xE9rea. Los colores son ricos y profundos,
+      con un uso magistral de la luz y la sombra para crear una atm\xF3sfera de reverencia
+      y admiraci\xF3n.  Los detalles son impresionantes: desde las delicadas texturas
+      de las telas hasta los intrincados patrones de oro y joyas, cada elemento est\xE1
+      pintado con una precisi\xF3n que resalta la importancia de la figura representada."
+    Informacion_Extra: "\xA1Hola! \xBFEst\xE1s listo para sumergirte en un viaje
+      al pasado a trav\xE9s del arte? \\\"Tota Pulchra\\\", creada por Baltasar de
+      Echave Ib\xEDa, es una obra que te transporta directamente al M\xE9xico del
+      siglo XVII.  Ahora, piensa en esto: si pudieras agregar un detalle moderno
+      a esta obra, \xBFcu\xE1l ser\xEDa y c\xF3mo crees que cambiar\xEDa la interpretaci\xF3n
+      de la pintura?"
+    Ubicacion_Obra: Desconocida
+    Nombre_Target: TotaPulchra
+    Fecha: 
+    Obra_Instanciada: 

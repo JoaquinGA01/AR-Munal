@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/AR-Camara.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
     path: Assets/Scenes/Pruebas.unity
-    guid: 165686f25fd96cd418ef32d5114ea941
-  - enabled: 1
-    path: Assets/Scenes/Camara-AR.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    guid: 4827d3b32ca38f14aa53ffcd5a17943b
   - enabled: 1
     path: Assets/Scenes/Lista.unity
-    guid: 2e9c6968df9950a4fbd07e00efb7c114
+    guid: 29b1960faf0372b40a8af42f36a34ea6
   m_configObjects: {}
